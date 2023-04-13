@@ -1,2 +1,1 @@
-# Future-Collars-task1
-sdfdsfsdfdsfsdfsdfdsfsdfsdfsddsfsdf
+My first GIT repository commands practised 
